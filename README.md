@@ -84,6 +84,8 @@ charger — is supported.
 | [docs/calibration.md](docs/calibration.md) | Console calibration modes and how to run them |
 | [docs/host-protocol.md](docs/host-protocol.md) | Host I2C protocol, register map and how to add a control |
 | [docs/developer.md](docs/developer.md) | Repository layout, building and where to extend |
+| [docs/design-notes.md](docs/design-notes.md) | Why the firmware is built this way: decisions and their reasoning |
+| [docs/roadmap.md](docs/roadmap.md) | Future ideas and proposals open to contributors |
 
 ## Releases
 

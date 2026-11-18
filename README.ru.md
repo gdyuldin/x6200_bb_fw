@@ -86,6 +86,8 @@ FPGA рассматривается как «чёрный ящик»: проши
 | [docs/calibration.md](docs/calibration.md) | Консольные режимы калибровки и порядок их запуска |
 | [docs/host-protocol.md](docs/host-protocol.md) | Хостовый протокол I2C, карта регистров и как добавить элемент управления |
 | [docs/developer.md](docs/developer.md) | Структура репозитория, сборка и точки расширения |
+| [docs/design-notes.md](docs/design-notes.md) | Почему прошивка устроена именно так: решения и их причины |
+| [docs/roadmap.md](docs/roadmap.md) | Будущие идеи и предложения, открытые для сообщества |
 
 ## Релизы
 

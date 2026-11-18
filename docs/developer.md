@@ -34,9 +34,16 @@ levels; Release keeps only informational and above.
 
 | Task | Start here |
 |---|---|
+| Understand why a subsystem is built this way | [docs/design-notes.md](design-notes.md) |
 | Add or change a host control | [docs/host-protocol.md](host-protocol.md) |
 | Change the receive or transmit chain | [docs/rx-path.md](rx-path.md), [docs/tx-path.md](tx-path.md) |
 | Change a protection threshold or behaviour | [docs/protection.md](protection.md) |
+
+`docs/design-notes.md` records the recurring decisions and their reasoning
+(layering, concurrency, host state, the FPGA bus and hardware primitives, the
+signal chains, protections, power/watchdog/persistence, telemetry, logging,
+generated coefficients). Read it before changing a subsystem, to learn which
+invariants are load-bearing.
 
 Two habits keep changes easy to review:
 
