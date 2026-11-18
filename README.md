@@ -87,8 +87,7 @@ charger — is supported.
 
 ## Releases
 
-Pre-built firmware binaries are published on the GitHub Releases page.
-<!-- TODO(author): add the Releases link once the first release is published. -->
+Pre-built firmware binaries are published on the GitHub [Releases](https://github.com/gdyuldin/x6200_bb_fw/releases) page.
 
 ## Building
 
